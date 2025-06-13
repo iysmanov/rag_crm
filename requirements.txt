@@ -1,0 +1,12 @@
+aiogram>=3.0.0
+openai>=1.0.0
+paddleocr>=2.7.0
+faiss-cpu>=1.7.4
+python-dotenv>=1.0.0
+python-multipart>=0.0.6
+pillow>=10.0.0
+scikit-learn>=1.2.0
+markdown>=3.4.0
+pyodbc>=4.0.39
+pandas>=2.0.0
+python-dateutil>=2.8.2 
