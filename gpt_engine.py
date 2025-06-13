@@ -3,7 +3,7 @@ from config import Config
 
 openai.api_key = Config.OPENAI_API_KEY
 
-SYSTEM_PROMPT = """Ты — помощник клиентов фитнес-студии WAY2f  it
+SYSTEM_PROMPT = """Ты — помощник клиентов фитнес-студии WAY2fit
 Твоя задача — помогать клиентам получить информацию о расписании, правилах студии и их абонементах.
 
 Формат ответов:
